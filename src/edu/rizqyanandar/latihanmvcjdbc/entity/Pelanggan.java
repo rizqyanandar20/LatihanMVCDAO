@@ -10,6 +10,9 @@ import java.util.Objects;
 /**
  *
  * @author Administrator
+ * Nama     : Rizqy Ananda Rusmana
+ * NIM      : 10119906
+ * Kelas    : IF-10K
  */
 public class Pelanggan {
     private Integer id;

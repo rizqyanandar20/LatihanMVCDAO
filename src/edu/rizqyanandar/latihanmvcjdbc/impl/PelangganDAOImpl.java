@@ -21,6 +21,9 @@ import java.util.logging.Logger;
 /**
  *
  * @author Administrator
+ * Nama     : Rizqy Ananda Rusmana
+ * NIM      : 10119906
+ * Kelas    : IF-10K
  */
 public class PelangganDAOImpl implements PelangganDAO{
     

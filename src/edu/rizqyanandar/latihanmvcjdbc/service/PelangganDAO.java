@@ -12,6 +12,9 @@ import java.util.List;
 /**
  *
  * @author Administrator
+ * Nama     : Rizqy Ananda Rusmana
+ * NIM      : 10119906
+ * Kelas    : IF-10K
  */
 public interface PelangganDAO {
        

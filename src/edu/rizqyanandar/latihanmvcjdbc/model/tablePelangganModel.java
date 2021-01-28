@@ -13,6 +13,9 @@ import javax.swing.table.AbstractTableModel;
 /**
  *
  * @author Administrator
+ * Nama     : Rizqy Ananda Rusmana
+ * NIM      : 10119906
+ * Kelas    : IF-10K
  */
 public class tablePelangganModel extends AbstractTableModel{
     private List<Pelanggan> list = new ArrayList<Pelanggan>();
